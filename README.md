@@ -1,6 +1,6 @@
 # Electro Hub Sales and Performance Dashboard
 
-## Project Overview 
+## Project Overview  **1.** Create a _[ELECTRO HUB DASHBOARD]()_ 
 This project involves building an interactive dashboard for Electro Hub to analyze sales, profits, and performance metrics. The dashboard provides actionable insights using visual filters and comparisons for better decision-making.
 
 ## Features
